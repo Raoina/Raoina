@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rowaina Reda</h1>
-<p align="center">💻 AI/ML Trainee @ ITI | 🎓 Business Analytics Graduate | 📊 Data Analyst & ML Enthusiast</p>
+<p align="center">💻 AI/ML Trainee @ ITI | 🎓 Business Analytics Graduate | 📊 Data Analyst & ML Engineer</p>
 
 ---
 
