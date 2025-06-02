@@ -13,6 +13,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raoina&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 - 👩‍🎓 Business Analytics graduate – Alexandria University '23  
@@ -25,13 +33,13 @@
 
 ## 🚀 Skills & Tools
 
-| Area | Technologies |
-|------|--------------|
-| Programming | `Python`, `C++`, `SQL` |
-| Data | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Excel` |
-| ML/DL | `Scikit-learn`, `Keras`, `TensorFlow`, `PyTorch` |
-| BI Tools | `Power BI` |
-| Workflow | `Git`, `GitHub`, `JIRA`, `Agile/Scrum` |
+| Area        | Technologies                                  |
+|-------------|----------------------------------------------|
+| Programming | `Python`, `C++`, `SQL`                        |
+| Data        | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Excel` |
+| ML/DL       | `Scikit-learn`, `Keras`, `TensorFlow`, `PyTorch`  |
+| BI Tools    | `Power BI`                                    |
+| Workflow    | `Git`, `GitHub`, `JIRA`, `Agile/Scrum`       |
 
 ---
 
@@ -83,12 +91,12 @@
 
 ## 🤝 Let’s Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rowaina-reda">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:roainareda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -97,4 +105,4 @@
 
 ---
 
-> _"Data is the new oil – but like oil, it has to be refined."_  
+> _"Data is the new oil – but like oil, it has to be refined."_
