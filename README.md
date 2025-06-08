@@ -1,4 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Rowaina Reda</h1>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&weight=400&color=gradient&text=Rowaina%20Reda&fontAlignY=50" />
+
+
+
+<h1 align="center">Hi there 👋</h1>
 <p align="center">💻 AI/ML Trainee @ ITI | 🎓 Business Analytics Graduate | 📊 Data Analyst & ML Engineer</p>
 
 ---
