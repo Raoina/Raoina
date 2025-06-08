@@ -112,10 +112,3 @@
 ---
 
 > _"Data is the new oil – but like oil, it has to be refined."_
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raoina/Raoina/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
