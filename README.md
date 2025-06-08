@@ -1,8 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&weight=400&color=gradient&text=Rowaina%20Reda&fontAlignY=50" />
 
-
-
 <h1 align="center">Hi there 👋</h1>
 <p align="center">💻 AI/ML Trainee @ ITI | 🎓 Business Analytics Graduate | 📊 Data Analyst & ML Engineer</p>
 
@@ -14,14 +12,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raoina&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -91,6 +81,17 @@
   Worked with stakeholders, managed Jira backlog, Agile environment  
 - 🧑‍🏫 **Teaching Assistant @ FCADS**  
   Assisted in lectures, prepared labs & materials for 1st-year students
+  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raoina&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raoina&show_icons=true&theme=radical" />
+</p>
 
 ---
 
@@ -111,3 +112,10 @@
 ---
 
 > _"Data is the new oil – but like oil, it has to be refined."_
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raoina/Raoina/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
